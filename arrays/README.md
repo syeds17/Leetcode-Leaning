@@ -2,3 +2,8 @@
 
 This folder contains beginner-friendly array problems
 from LeetCode Arrays 101.
+
+## Problems Solved
+- Find Numbers with Even Number of Digits
+- Squares of a Sorted Array
+- Duplicate Zeros
