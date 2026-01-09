@@ -1,7 +1,6 @@
 """
 Problem: Find Numbers with Even Number of Digits
-Link: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
-
+Link: https://leetcode.com/explore/
 Approach:
 - Convert each number to string
 - Count digits using len()
