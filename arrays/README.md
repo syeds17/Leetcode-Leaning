@@ -9,3 +9,4 @@ from LeetCode Arrays 101.
 - Find max consecutive ones
 - Duplicate Zeros
 - Merge Sorted Array
+- Two Sum
