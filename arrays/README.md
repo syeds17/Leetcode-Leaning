@@ -7,3 +7,5 @@ from LeetCode Arrays 101.
 - Find Numbers with Even Number of Digits
 - Squares of a Sorted Array
 - Find max consecutive ones
+- Duplicate Zeros
+- Merge Sorted Array
