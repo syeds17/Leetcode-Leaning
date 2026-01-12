@@ -10,3 +10,5 @@ from LeetCode Arrays 101.
 - Duplicate Zeros
 - Merge Sorted Array
 - Two Sum
+- Remove Element
+- Remove Duplicates from Sorted Array
