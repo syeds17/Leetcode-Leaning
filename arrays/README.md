@@ -12,3 +12,4 @@ from LeetCode Arrays 101.
 - Two Sum
 - Remove Element
 - Remove Duplicates from Sorted Array
+-  Check If N and Its Double Exist
