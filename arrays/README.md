@@ -12,7 +12,11 @@ from LeetCode Arrays 101.
 - Two Sum
 - Remove Element
 - Remove Duplicates from Sorted Array
--  Check If N and Its Double Exist
--  Valid Mountain Array
--  Check If N and Its Double Exist
--  Replace Elements with Greatest Element on Right Side
+- Valid Mountain Array
+- Check If N and Its Double Exist
+- Replace Elements with Greatest Element on Right Side
+- Find All Numbers Disappeared in an Array
+- Third Maximum Number
+- Height Checker
+-   Move Zeroes
+-   Sort Array By Parity
