@@ -6,5 +6,7 @@ focusing on concepts like Happy Numbers, Prime Checks, Factorials, and Palindrom
 ## Problems Solved
 - Happy Number
 - Sort Colours
+- Longest Palindromic Substring
+- Remove Duplicates from Sorted Array II
 
 
