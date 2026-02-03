@@ -8,5 +8,6 @@ focusing on concepts like Happy Numbers, Prime Checks, Factorials, and Palindrom
 - Sort Colours
 - Longest Palindromic Substring
 - Remove Duplicates from Sorted Array II
+- Find Pivot Index
 
 
