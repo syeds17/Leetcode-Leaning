@@ -20,5 +20,6 @@ from LeetCode Arrays 101.
 - Height Checker
 - Move Zeroes
 - Sort Array By Parity
--  Largest Number At Least Twice of Others
+- Largest Number At Least Twice of Others
+- Plus One
 
